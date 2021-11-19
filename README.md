@@ -10,7 +10,7 @@
 
 ### New Stuff
 
-I've recently gotten into Kubernetes and managed infastructure. I am currently working on a project that uses Kubernetes and Github to create scalable releases worldwide.
+I am currently working on learning NuxtJS, and Next.JS to create scalable, reliable, and tested infastructure.
 
 ### Experience
 
@@ -22,10 +22,10 @@ All of these PRs are not amazing, but they are truthful. We can always look at m
 800m 2:32.15 (Milesplit also says that I acheived a 2 hour and 31 second)
 1600m 6:15
 3200m 11:55.67
-5000m (Cross Country) 20:21.07
+5000m (Cross Country) 18:18
 
 Strava PRs:
 1k 2:54
 1 mile 4:55
-5k 21:02
+5k 18:40
 10k 49:48
