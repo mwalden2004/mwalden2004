@@ -10,6 +10,8 @@ Feel free to email me at matthew@mwalden.tech
 
 ### Experience
 
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,css,docker,html,js,kubernetes,linux,lua,mongodb,mysql,nextjs,nginx,nodejs,react,redis,tailwind,vscode,workers)](https://skillicons.dev)
+
 I've worked on a platform with over 30,000 users, and well after created another one which has gotten up to 20,000 users. So, I've worked with a lot of people, and have managed large teams of voulnteers to handle user tickets, and help provide the best experience possible to users.
 
 I am a independent contractor primarily working for Artifax DEV LLC, which is responsible for creating BloxLink a service powering over six-million users. I am responsible for developing their next-generation website using Next.JS, and Nuxt.JS.
