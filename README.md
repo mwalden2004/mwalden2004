@@ -10,8 +10,6 @@ I'm experienced with MySQL, Ubuntu Server, RESTful APIs, NGINX, Discord APIs, XM
 
 I've created a platform with over 30,000 users, and well after created another one which has gotten up to 20,000 users. So, I've worked with a lot of people, and have managed large teams of voulnteers to handle user tickets, and help provide the best experience possible to users.
 
-I am a independent contractor primarily working for Blox Works, which is responsible for creating Bloxlink a service powering over six-million users. I am responsible for developing their next-generation website using Next.JS, and FoalTs.
-
 ### Outside Computers
 
 I love running, and spend a lot of my free-time logging miles. See my Strava! https://www.strava.com/athletes/48783724
