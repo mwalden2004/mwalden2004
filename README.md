@@ -2,7 +2,7 @@
 
 I've been developing websites since I was seven years-old. Now I'm 18 and have created many services and products used by people all around the globe. Through my products I've been able to experience running customer-support teams, managing customer expectations, and product design. I now contract mainly for Bloxlink, a Roblox to Discord verification platform which boasts over 10-million verified users.
 
-Outside of programming, I like to run, mountain bike, talk on HAM radio, study weather phenomena, fly drones as a licensed Part-107 pilot, and take pictures. I've also created a light-show for my community called Lights on Angel which was featured on the [Anniston Star][https://www.annistonstar.com/news/jacksonville/self-proclaimed-weather-nerd-creates-light-show-in-jacksonville/article_28e2007a-7822-11ed-af42-63159a610c4b.html], you can see a preview of it [here][https://www.youtube.com/watch?v=aEaAXJv5EQI&t=0s].
+Outside of programming, I like to run, mountain bike, talk on HAM radio, study weather phenomena, fly drones as a licensed Part-107 pilot, and take pictures. I've also created a light-show for my community called Lights on Angel which was featured on the [[Anniston Star][https://www.annistonstar.com/news/jacksonville/self-proclaimed-weather-nerd-creates-light-show-in-jacksonville/article_28e2007a-7822-11ed-af42-63159a610c4b.html]], you can see a preview of it [[here][https://www.youtube.com/watch?v=aEaAXJv5EQI&t=0s]].
 
   
 ### Experience
