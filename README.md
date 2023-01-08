@@ -7,7 +7,7 @@ Outside of programming, I like to run, mountain bike, talk on HAM radio, study w
   
 ### Experience
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,bash,bootstrap,cloudflare,codepen,css,discord,bots,docker,express,git,github,githubactions,heroku,html,instagram,java,js,kubernetes,linkedin,linux,lua,md,materialui,mongodb,mysql,nestjs,netlify,nextjs,nginx,nodejs,ps,php,prisma,react,redis,svg,tailwind,twitter,ts,vercel,vscode,workers,xd))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,bootstrap,cloudflare,codepen,css,discord,bots,docker,express,git,github,githubactions,heroku,html,instagram,java,js,kubernetes,linkedin,linux,lua,md,materialui,mongodb,mysql,nestjs,netlify,nextjs,nginx,nodejs,ps,php,prisma,react,redis,svg,tailwind,twitter,ts,vercel,vscode,workers,xd)](https://skillicons.dev)
 
 See my [portfolio](https://mwalden.tech/).
 
