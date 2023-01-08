@@ -12,8 +12,8 @@ Outside of programming, I like to run, mountain bike, talk on HAM radio, study w
 See my [portfolio](https://mwalden.tech/).
 
 ### Outside Computers
-__
-I love running, and spend a lot of my free-time logging miles. See my Strava! https://www.strava.com/athletes/48783724 __
-__
-"Let us run with endurance the race that lies before us."__
-"I have fought the good fight, I have finished the race, I have kept the faith"
+  
+I love running, and spend a lot of my free-time logging miles. See my Strava! https://www.strava.com/athletes/48783724  
+  
+"Let us run with endurance the race that lies before us."  
+"I have fought the good fight, I have finished the race, I have kept the faith"  
