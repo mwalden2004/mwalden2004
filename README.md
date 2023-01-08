@@ -1,23 +1,19 @@
 ### Hey there! 👋
 
-My name is Matthew. I'm a full-stack developer with experience running large and optimized applications. I've been programming since the 2nd or 3rd grade; since then, I've learned many languages, systems, and programs.
-  
-I'm experienced with MySQL, Ubuntu Server, RESTful APIs, NGINX, Discord APIs, XMPP feeds, security best practices, HTML, CSS, JS, TypeScript, Node.JS, Vercel, Lua, DigitalOcean, Docker, Kubernetes, and a lot of other things.
+I've been developing websites since I was seven years-old. Now I'm 18 and have created many services and products used by people all around the globe. Through my products I've been able to experience running customer-support teams, managing customer expectations, and product design. I now contract mainly for Bloxlink, a Roblox to Discord verification platform which boasts over 10-million verified users.
+
+Outside of programming, I like to run, mountain bike, talk on HAM radio, study weather phenomena, fly drones as a licensed Part-107 pilot, and take pictures. I've also created a light-show for my community called Lights on Angel which was featured on the [Anniston Star][https://www.annistonstar.com/news/jacksonville/self-proclaimed-weather-nerd-creates-light-show-in-jacksonville/article_28e2007a-7822-11ed-af42-63159a610c4b.html], you can see a preview of it [here][https://www.youtube.com/watch?v=aEaAXJv5EQI&t=0s].
+
   
 ### Experience
 
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,css,docker,html,js,kubernetes,linux,lua,mongodb,mysql,nextjs,nginx,nodejs,react,redis,tailwind,vscode,workers)](https://skillicons.dev)
+[![My Skills]([https://skillicons.dev/icons?i=cloudflare,css,docker,html,js,kubernetes,linux,lua,mongodb,mysql,nextjs,nginx,nodejs,react,redis,tailwind,vscode,workers](https://skillicons.dev/icons?i=arduino,bash,bootstrap,cloudflare,codepen,css,discord,bots,docker,express,git,github,githubactions,heroku,html,instagram,java,js,kubernetes,linkedin,linux,lua,md,materialui,mongodb,mysql,nestjs,netlify,nextjs,nginx,nodejs,ps,php,prisma,react,redis,svg,tailwind,twitter,ts,vercel,vscode,workers,xd))](https://skillicons.dev)
 
-I've created a platform with over 30,000 users, and well after created another one which has gotten up to 20,000 users. So, I've worked with a lot of people, and have managed large teams of voulnteers to handle user tickets, and help provide the best experience possible to users.
+See my [portfolio][https://mwalden.tech/].
 
 ### Outside Computers
 
 I love running, and spend a lot of my free-time logging miles. See my Strava! https://www.strava.com/athletes/48783724
 
-5k: 18 minutes 18 seconds
-400m: 58 seconds
-800m: 2 minutes 20 seconds
-1600m: 4 minutes 58 seconds.
-3600m: 11:35
-
 "Let us run with endurance the race that lies before us."
+"I have fought the good fight, I have finished the race, I have kept the faith"
