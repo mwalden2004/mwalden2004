@@ -21,7 +21,7 @@ Apart from programming, I enjoy running, mountain biking, HAM radio, studying we
 * [RBLX Long Polling](https://github.com/ReAdminRBX/roblox-long-polling) - A tool for connecting game servers to a Node.JS back-end in real-time for asynchronous communications.
 
 ### Skills & Technologies
-* DigitalOcean App Platform, Ubuntu Server, CentOS, DigitalOcean Workers, DigitalOcean DNS
+* DigitalOcean Platform, Ubuntu Server, CentOS, Cloudflare Workers, Cloudflare DNS
 * NodeJS, TypeScript, NextJS, React, TailwindCSS, FoalTS, TypeORM, Vercel
 * Redis, MongoDB, MySQL, Discord APIs and more.
 
