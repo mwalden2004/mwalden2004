@@ -9,6 +9,7 @@ Apart from programming, I enjoy running, mountain biking, HAM radio, studying we
 ## Portfolio
 
 ### Notable Projects
+* [Fiddler's Green Event Venue](https://fiddlersgreenweddings.com/) - Created a modern website to help a local event and wedding venue give information to potential customers as well as promote tours and events there.
 * [Skirmish in the Valley](https://skirmishinthevalley.com) - Ticket management and event information website for an annual civil war reenactment.
 * [Bloxlink](https://blox.link) - Website and API development for a platform that connects Discord with Roblox, boasting over 12 million verified users.
 * [RocketPanel](https://rocketpanel.app) - Online server hosting panel for managing Docker containers.
