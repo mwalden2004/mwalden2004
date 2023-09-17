@@ -26,16 +26,10 @@ Apart from programming, I enjoy running, mountain biking, HAM radio, studying we
 * NodeJS, TypeScript, NextJS, React, TailwindCSS, FoalTS, TypeORM, Vercel
 * Redis, MongoDB, MySQL, Discord APIs and more.
 
-## Achievements & Involvements
-* National BETA Club Member
-* FBLA: 1st in Cyber Security, 2nd in Computer Problem Solving; Secretary
-* Volunteer: Church Tech Team, Fiddler's Green weddings, Skirmish in the Valley, HAM Radio Volunteer for the yearly Cheaha Challenge
-* Yearbook Editor, SGA Representative
-* Honors Student: Chemistry, Anatomy, Dual English, History, Math
-* Microsoft Word, Excel, Powerpoint Certified Associate; Microsoft Expert
-* Cross Country All-Sectionals & All-County; Outdoor Track Runner
-* Robotics: Chief Programming Officer and former Chief Marketing Officer
-* Vice President of Fellowship of Christian Athletes at my school
-* Cheaha Mountain Biking Race Team Member
+## Certifications
+* GIAC GFACT Certified
+* National CyberStart Scholar/Gold Award
+* Microsoft Expert/Specialist
+* Intercom Chat Support - Delivering a World Class Customer Support Experience
 
 Let's connect and make something amazing together!
