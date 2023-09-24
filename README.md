@@ -16,7 +16,7 @@ Apart from programming, I enjoy running, mountain biking, HAM radio, studying we
 * [LiveStormsMedia](#) - Assisted in creating a parser for real-time warnings from the National Weather Service.
 
 ### Open Source Projects
-* [NWWS-OI Parser](https://github.com/mwalden2004/National-Weather-Service-Open-Interface-Realtime-Parser) - Real-time warning parser for the National Weather Service.
+* [NWWS-OI Parser](https://github.com/mwalden2004/nwws-oi-parser) - Real-time warning parser for the National Weather Service.
 * [HQ Trivia Bot](https://github.com/mwalden2004/node-hq-trivia-bot) - Bot for playing the HQ Trivia game using websockets.
 * [2 Bored 2 Wait](https://github.com/mwalden2004/2b2w_rewrite) - A tool for waiting in the 2b2t queue without a Minecraft client.
 * [RBLX Long Polling](https://github.com/ReAdminRBX/roblox-long-polling) - A tool for connecting game servers to a Node.JS back-end in real-time for asynchronous communications.
