@@ -2,7 +2,7 @@
 
 I'm a 20-year-old full-stack developer with a passion for creating web applications and Discord bots. I've been developing websites since I was seven and have had the opportunity to work on numerous projects, some with dedicated communities. Currently, I'm working on [ReAdmin](https://readmin.app), a Roblox HR platform.
 
-Apart from programming, I enjoy running, mountain biking, HAM radio, studying weather phenomena, flying drones as a licensed Part-107 pilot, and photography. I also created a light-show for my community called "Lights on Angel," featured on the Anniston Star. [Read it!](https://www.annistonstar.com/news/jacksonville/self-proclaimed-weather-nerd-creates-light-show-in-jacksonville/article_28e2007a-7822-11ed-af42-63159a610c4b.html) [Watch it!](https://www.youtube.com/watch?v=VQI1TdjPjK8&list=PLiO62es8bIrYD2d0hEXzkYHxI0-G-WaN2&index=9)
+Apart from programming, I enjoy running, mountain biking, HAM radio, studying weather phenomena, flying drones as a licensed Part-107 pilot, and photography. I also created a light-show for my community called "Lights on Angel," featured on the [Anniston Star](https://www.annistonstar.com/news/jacksonville/self-proclaimed-weather-nerd-creates-light-show-in-jacksonville/article_28e2007a-7822-11ed-af42-63159a610c4b.html). [Watch it!](https://www.youtube.com/watch?v=VQI1TdjPjK8&list=PLiO62es8bIrYD2d0hEXzkYHxI0-G-WaN2&index=9)
 
 📧 Reach me at [matthew@mwalden.tech](mailto:matthew@mwalden.tech)
 🏢 Connect with me on [LinkedIn](https://www.linkedin.com/in/mwalden04/)
