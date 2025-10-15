@@ -10,16 +10,16 @@ Apart from programming, I enjoy running, mountain biking, HAM radio, studying we
 ## Portfolio
 
 ### Education
-Currently a junior at Jacksonville State University in Alabama, studying Computer Science.
+Currently a senior at Jacksonville State University in Alabama, studying Computer Science.
 
 ### Notable Works
 * [ReAdmin](https://readmin.app) - A modern HR tool to assist Roblox groups in managing large teams. It provides features like time tracking, applications, remote admin, Discord integrations, punishments, abscene management, and more.
 * [State Farm](https://statefarm.com) - Summer/Fall 2024 intern working on the Drive Safe & Save Telematics team. Now full-time Software Engineer.
-* [Fiddler's Green Event Venue](https://fiddlersgreenweddings.com/) - Created a modern website to help a local event and wedding venue give information to potential customers as well as promote tours and events there.
+* Fiddler's Green Event Venue - Created a modern website to help a local event and wedding venue give information to potential customers as well as promote tours and events there.
 * Skirmish in the Valley - Ticket management and event information website for an annual civil war reenactment.
 * [Bloxlink](https://blox.link) - Website and API development for a platform that connects Discord with [Roblox](https://corp.roblox.com), boasting over 12 million verified users. Roblox recently aquired Bloxlink making it their 9th acquisition.
 * RocketPanel - Online server hosting panel for managing Docker containers.
-* [LiveStormsMedia](#) - Assisted in creating a parser for real-time warnings from the National Weather Service.
+* LiveStormsMedia - Assisted in creating a parser for real-time warnings from the National Weather Service.
 
 ### Open Source Projects
 * [NWWS-OI Parser](https://github.com/mwalden2004/nwws-oi-parser) - Real-time warning parser for the National Weather Service.
